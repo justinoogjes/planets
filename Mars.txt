@@ -1,4 +1,6 @@
 Cold and dry, but everything is my favourite colour
 The two moons might be a problem for wolfman
 The Mummy will appreciate the lack of humidity
-This line added on desktop
+<<<<<<< HEAD
+There was a conflict, now its gone
+>>>>>>> b516f5e90aa95eb4b0a54a23950cc0aab52fa877
